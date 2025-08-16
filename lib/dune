@@ -1,0 +1,4 @@
+(library
+ (name parsing_logic)
+ (public_name parsing_logic)
+ (modules main error ast lexer parser eval table))
